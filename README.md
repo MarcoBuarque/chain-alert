@@ -20,7 +20,7 @@
 - Configure Apache Kafka for efficient message queuing and event streaming.
 - Develop a Notification Service for handling various notification channels (email, Telegram, etc.).
 
-## Microservices Design
+## Microservices Design:
 ![Microservices Design](https://github.com/MarcoBuarque/chain-alert/blob/master/assets/app.png)
 
 ## Technology Stack:
